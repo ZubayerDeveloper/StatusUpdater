@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Status Updater Note app</string>
+    <string name="about">App Developer:\n\n<b><font color="blue">DR. ZUBAYER AHMED</font></b>\n\nMymensingh Medical College (M42)\n\nMedical Officer\n\nGovernment of People\'s Republic of Bangladesh\n\n33rd Batch of Bangladesh Civil Service (Health)\n\nContact:\n<b>zubayer.developer@gmail.com</b>
+    </string>
+    <string name="banner_id">ca-app-pub-6830488664932459/2687077677</string>
+    <string name="exit">Mail me your problems or ideas</string>
+    <string name="f"><u>f</u></string>
+</resources>
