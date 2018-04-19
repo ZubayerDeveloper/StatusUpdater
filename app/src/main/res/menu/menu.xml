@@ -2,12 +2,49 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/about"
-        android:title="About Developer"
+        android:id="@+id/save"
+        android:icon="@drawable/save"
+        android:title="Save"
         app:showAsAction="never" />
     <item
-        android:id="@+id/rate"
-        android:title="Rate This App"
+        android:id="@+id/clear"
+        android:icon="@drawable/clear"
+        android:title="Cear texts"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/undo"
+        android:icon="@drawable/undo"
+        android:title="Undo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/redo"
+        android:icon="@drawable/redo"
+        android:title="Redo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/post"
+        android:icon="@drawable/facebook"
+        android:title="Post to Facaebook"
+        app:showAsAction="never" />
+    <!--<item-->
+    <!--android:id="@+id/zoomin"-->
+    <!--android:title="Zoom in"-->
+    <!--android:icon="@drawable/zoomin"-->
+    <!--app:showAsAction="never" />-->
+    <!--<item-->
+    <!--android:id="@+id/zoomout"-->
+    <!--android:title="Zomm out"-->
+    <!--android:icon="@drawable/zoomout"-->
+    <!--app:showAsAction="never" />-->
+    <!--<item-->
+    <!--android:id="@+id/rate"-->
+    <!--android:title="Rate This App"-->
+    <!--android:icon="@drawable/rate"-->
+    <!--app:showAsAction="never" />-->
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about"
+        android:title="About Developer"
         app:showAsAction="never" />
 
 </menu>
